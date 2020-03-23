@@ -1,0 +1,5 @@
+E:\Applications\Bolton\CodingExamSolution\Libraries\CodingExamStandard\bin\Debug\netstandard2.1\CodingExamStandard.deps.json
+E:\Applications\Bolton\CodingExamSolution\Libraries\CodingExamStandard\bin\Debug\netstandard2.1\CodingExamStandard.dll
+E:\Applications\Bolton\CodingExamSolution\Libraries\CodingExamStandard\obj\Debug\netstandard2.1\CodingExamStandard.csprojAssemblyReference.cache
+E:\Applications\Bolton\CodingExamSolution\Libraries\CodingExamStandard\obj\Debug\netstandard2.1\CodingExamStandard.AssemblyInfoInputs.cache
+E:\Applications\Bolton\CodingExamSolution\Libraries\CodingExamStandard\obj\Debug\netstandard2.1\CodingExamStandard.AssemblyInfo.cs

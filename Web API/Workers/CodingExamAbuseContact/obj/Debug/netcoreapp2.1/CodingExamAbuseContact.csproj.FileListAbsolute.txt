@@ -1,0 +1,37 @@
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\CodingExamAbuseContact.deps.json
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\CodingExamAbuseContact.runtimeconfig.json
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\CodingExamAbuseContact.runtimeconfig.dev.json
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\CodingExamAbuseContact.dll
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\obj\Debug\netcoreapp2.1\CodingExamAbuseContact.csprojAssemblyReference.cache
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\obj\Debug\netcoreapp2.1\CodingExamAbuseContact.RazorAssemblyInfo.cache
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\obj\Debug\netcoreapp2.1\CodingExamAbuseContact.RazorAssemblyInfo.cs
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\obj\Debug\netcoreapp2.1\CodingExamAbuseContact.AssemblyInfoInputs.cache
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\obj\Debug\netcoreapp2.1\CodingExamAbuseContact.AssemblyInfo.cs
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\obj\Debug\netcoreapp2.1\CodingExamAbuseContact.RazorTargetAssemblyInfo.cache
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\CodingExamAbuseContact.pdb
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\CodingExam.dll
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\CodingExam.pdb
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\obj\Debug\netcoreapp2.1\CodingExamAbuseContact.csproj.CopyComplete
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\obj\Debug\netcoreapp2.1\CodingExamAbuseContact.dll
+E:\Applications\Bolton\CodingExamSolution\CodingExamAbuseContact\obj\Debug\netcoreapp2.1\CodingExamAbuseContact.pdb
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\CodingExamAbuseContact.deps.json
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\CodingExamAbuseContact.runtimeconfig.json
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\CodingExamAbuseContact.runtimeconfig.dev.json
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\CodingExamAbuseContact.dll
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\CodingExamAbuseContact.pdb
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\CodingExam.dll
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\CodingExamAbuseContact\bin\Debug\netcoreapp2.1\CodingExam.pdb
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\CodingExamAbuseContact\obj\Debug\netcoreapp2.1\CodingExamAbuseContact.RazorAssemblyInfo.cache
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\CodingExamAbuseContact\obj\Debug\netcoreapp2.1\CodingExamAbuseContact.RazorAssemblyInfo.cs
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\CodingExamAbuseContact\obj\Debug\netcoreapp2.1\CodingExamAbuseContact.AssemblyInfoInputs.cache
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\CodingExamAbuseContact\obj\Debug\netcoreapp2.1\CodingExamAbuseContact.AssemblyInfo.cs
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\CodingExamAbuseContact\obj\Debug\netcoreapp2.1\CodingExamAbuseContact.RazorTargetAssemblyInfo.cache
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\CodingExamAbuseContact\obj\Debug\netcoreapp2.1\CodingExamAbuseContact.csproj.CopyComplete
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\CodingExamAbuseContact\obj\Debug\netcoreapp2.1\CodingExamAbuseContact.dll
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\CodingExamAbuseContact\obj\Debug\netcoreapp2.1\CodingExamAbuseContact.pdb

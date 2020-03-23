@@ -1,0 +1,10 @@
+E:\Applications\Bolton\CodingExamSolution\Libraries\CodingExam\bin\Debug\netcoreapp2.1\CodingExam.deps.json
+E:\Applications\Bolton\CodingExamSolution\Libraries\CodingExam\bin\Debug\netcoreapp2.1\CodingExam.runtimeconfig.json
+E:\Applications\Bolton\CodingExamSolution\Libraries\CodingExam\bin\Debug\netcoreapp2.1\CodingExam.runtimeconfig.dev.json
+E:\Applications\Bolton\CodingExamSolution\Libraries\CodingExam\bin\Debug\netcoreapp2.1\CodingExam.dll
+E:\Applications\Bolton\CodingExamSolution\Libraries\CodingExam\bin\Debug\netcoreapp2.1\CodingExam.pdb
+E:\Applications\Bolton\CodingExamSolution\Libraries\CodingExam\obj\Debug\netcoreapp2.1\CodingExam.csprojAssemblyReference.cache
+E:\Applications\Bolton\CodingExamSolution\Libraries\CodingExam\obj\Debug\netcoreapp2.1\CodingExam.AssemblyInfoInputs.cache
+E:\Applications\Bolton\CodingExamSolution\Libraries\CodingExam\obj\Debug\netcoreapp2.1\CodingExam.AssemblyInfo.cs
+E:\Applications\Bolton\CodingExamSolution\Libraries\CodingExam\obj\Debug\netcoreapp2.1\CodingExam.dll
+E:\Applications\Bolton\CodingExamSolution\Libraries\CodingExam\obj\Debug\netcoreapp2.1\CodingExam.pdb

@@ -1,0 +1,12 @@
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\GeoLocation\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\GeoLocation\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\GeoLocation\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\GeoLocation\bin\Debug\netcoreapp2.1\GeoLocation.deps.json
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\GeoLocation\bin\Debug\netcoreapp2.1\GeoLocation.runtimeconfig.json
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\GeoLocation\bin\Debug\netcoreapp2.1\GeoLocation.runtimeconfig.dev.json
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\GeoLocation\bin\Debug\netcoreapp2.1\GeoLocation.dll
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\GeoLocation\obj\Debug\netcoreapp2.1\GeoLocation.RazorAssemblyInfo.cache
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\GeoLocation\obj\Debug\netcoreapp2.1\GeoLocation.RazorAssemblyInfo.cs
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\GeoLocation\obj\Debug\netcoreapp2.1\GeoLocation.AssemblyInfoInputs.cache
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\GeoLocation\obj\Debug\netcoreapp2.1\GeoLocation.AssemblyInfo.cs
+E:\Applications\Bolton\CodingExamSolution\Web API\Workers\GeoLocation\obj\Debug\netcoreapp2.1\GeoLocation.RazorTargetAssemblyInfo.cache
